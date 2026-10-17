@@ -1,4 +1,5 @@
 # tweetcraft-scripts
+<<<<<<< HEAD
 
 A collection of userscripts for [TweetCraft](https://tweetcraft.jai.vin). Install them with a userscript manager such as Tampermonkey or Violentmonkey.
 
@@ -15,3 +16,6 @@ A collection of userscripts for [TweetCraft](https://tweetcraft.jai.vin). Instal
 
 - Every script runs only on `https://tweetcraft.jai.vin/*`.
 - **Tweetcraft Better Options** replaces the game's Options screen. The other scripts expose their settings through it (shaders, zoom, keybinds), so install it alongside them for full configuration.
+=======
+i will make this later lol
+>>>>>>> 08226216c5a1db85d7394e5a1f1f70ebbf4989c9
